@@ -37,6 +37,7 @@ Signal stores as minimal data as possible. If ever the signal servers are hacked
 ### Contacts
 Signal doesn't directly sends any of your contact list to the server. Instead, it uses a *cryptographic hash function* to obfuscate phone numbers before sending them to the server.
 
+### Verify calls
 As with text messages, Signal includes a clever method for confirming the person you're calling is who they say they are and not intercepting your call. Both callers see the same randomly generated two-word phrase.<br>
 If you think you might be speaking to an imposter, simply demand the other caller say the security phrase.
 

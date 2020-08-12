@@ -3,7 +3,7 @@
 
 [![Signal](images.png)](https://signal.org/)
 
-### GET SIGNAL [HERE](https://signal.org/download/)
+## GET SIGNAL [HERE](https://signal.org/download/)
 
 ## GET FROM THE PLAYSTORE [HERE](https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms)
 
@@ -17,7 +17,7 @@ Many of you might be using whatsapp, but today I am going to present my case on 
 
 # SECURITY and PRIVACY
 Signal is by far the **best** when it comes to protecting user privacy. It is better than Whatsapp by a long shot. Signal uses the **open-source** Signal Protcol to implement the end-to-end encryption in its messages.
-<br><br>
+<br>
 ### Industry leading encryption standard
 Signal encrypts your messages, calls, and even the metadata. Signal is the only messaging app that encrypts even the metadata to protect the user from all fronts.<br>
 
@@ -35,9 +35,10 @@ Signal stores as minimal data as possible. If ever the signal servers are hacked
 > "The only Signal user data we have, and the only data the US government obtained as a result, was the date of last use -- **NOT** user messages, groups, contacts, profile information, or anything else." -Signal.org
 
 <br>
+
 ### Contacts
 Signal doesn't directly sends any of your contact list to the server. Instead, it uses a *cryptographic hash function* to obfuscate phone numbers before sending them to the server.
-<br><br>
+<br>
 ### Sealed sender
 In addition to the end-to-end encryption that protects every Signal message, The Signal service is designed to minimise the data that is retained about signal users. By design it **does not** store a record of your contacts, social graph, conversation list, profile name, avatar, group memberships, group titles, etc.
 

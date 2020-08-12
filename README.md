@@ -30,7 +30,7 @@ To prevent physical access to the messages, the messages are stored on the stora
 ## Stored data
 Signal stores as minimal data as possible. If ever the signal servers are hacked, they will only contain the *account creation date* and *last connection date*. See how even FBI lost it to the privacy of Signal messenger [here](https://www.dailydot.com/debug/signal-subpoena-privacy-gag-order/).
 
-> "The only Signal user data we have, and the only data the US government obtained as a result, was the date of last use -- **NOT** user messages, groups, contacts, profile information, or anything else."
+> "The only Signal user data we have, and the only data the US government obtained as a result, was the date of last use -- **NOT** user messages, groups, contacts, profile information, or anything else." -Signal.org
 
 <br><br>
 ## Contacts
@@ -38,3 +38,16 @@ Signal doesn't directly sends any of your contact list to the server. Instead, i
 <br><br>
 ## Sealed sender
 In addition to the end-to-end encryption that protects every Signal message, The Signal service is designed to minimise the data that is retained about signal users. By design it **does not** store a record of your contacts, social graph, conversation list, profile name, avatar, group memberships, group titles, etc.
+
+## Open Source
+Being open source is another perk of Signal messenger, as the whole code is published on github, anyone can verify the code, suggest improvements, report security errors. In Contrast, whatsapp is closed source, so any vulnerability has a high chance of being expoloited.
+
+# Features
+Ok, now you have an idea about the security of signal messenger. Let's talk features.
+
+## Note to Self
+Ever wanted to jot down something quickly? Why not use Signal for that too. Compose a message and select "Note to Self" in the contact list. Don't worry this is end-to-end encrypted too. You can even write your passwords here (although i would recommend a password manager for that).
+
+## View-once media
+Want to send your photo, but don't want it to be stored on the reciever's device? Don't worry, Signal has you covered. Just select to send a view-once message and it will be deleted as soon as the reciever views the media. *kaboom!*
+

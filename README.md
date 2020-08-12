@@ -29,6 +29,9 @@ To prevent physical access to the messages, the messages are stored on the stora
 
 ## Stored data
 Signal stores as minimal data as possible. If ever the signal servers are hacked, they will only contain the *account creation date* and *last connection date*. See how even FBI lost it to the privacy of Signal messenger [here](https://www.dailydot.com/debug/signal-subpoena-privacy-gag-order/).
+
+> "The only Signal user data we have, and the only data the US government obtained as a result, was the date of last use -- **NOT** user messages, groups, contacts, profile information, or anything else."
+
 <br><br>
 ## Contacts
 Signal doesn't directly sends any of your contact list to the server. Instead, it uses a *cryptographic hash function* to obfuscate phone numbers before sending them to the server.

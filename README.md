@@ -1,9 +1,9 @@
 # Signal messenger : Benefits, installation and everything you need.
 ----------
 
-GET SIGNAL [HERE] - (https://signal.org/download/)
+GET SIGNAL [HERE](https://signal.org/download/)
 
-GET FROM THE PLAYSTORE [HERE] - (https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms)
+GET FROM THE PLAYSTORE [HERE](https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms)
 
 ----------
 

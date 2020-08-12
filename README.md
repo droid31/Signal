@@ -51,3 +51,4 @@ Ever wanted to jot down something quickly? Why not use Signal for that too. Comp
 ## View-once media
 Want to send your photo, but don't want it to be stored on the reciever's device? Don't worry, Signal has you covered. Just select to send a view-once message and it will be deleted as soon as the reciever views the media. *kaboom!*
 
+

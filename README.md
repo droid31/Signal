@@ -32,3 +32,6 @@ Signal stores as minimal data as possible. If ever the signal servers are hacked
 <br><br>
 ## Contacts
 Signal doesn't directly sends any of your contact list to the server. Instead, it uses a *cryptographic hash function* to obfuscate phone numbers before sending them to the server.
+<br><br>
+## Sealed sender
+In addition to the end-to-end encryption that protects every Signal message, The Signal service is designed to minimise the data that is retained about signal users. By design it **does not** store a record of your contacts, social graph, conversation list, profile name, avatar, group memberships, group titles, etc.

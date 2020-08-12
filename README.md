@@ -25,5 +25,10 @@ Signal uses state-of-the-art end-to-end encryption *(powered by the **open sourc
 
 > End-to-End chats are encrypted from the sender's device and decrypted at the reciever's device using a secure cryptographic key. And since the messages are stored on the local storage instead of the server, only you are in control.
 
-<br><br>
 To prevent physical access to the messages, the messages are stored on the storage in encrypted format. Therefore if your mobile is storen or the storage is compromised, the chats are irretrieveable. Moreover, the app supports biometric authentication/screen lock to prevent unauthorised access.
+
+## Stored data
+Signal stores as minimal data as possible. If ever the signal servers are hacked, they will only contain the *account creation date* and *last connection date*. See how even FBI lost it to the privacy of Signal messenger [here](https://www.dailydot.com/debug/signal-subpoena-privacy-gag-order/).
+<br><br>
+## Contacts
+Signal doesn't directly sends any of your contact list to the server. Instead, it uses a *cryptographic hash function* to obfuscate phone numbers before sending them to the server.

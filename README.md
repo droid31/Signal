@@ -34,8 +34,6 @@ Signal stores as minimal data as possible. If ever the signal servers are hacked
 
 > "The only Signal user data we have, and the only data the US government obtained as a result, was the date of last use -- **NOT** user messages, groups, contacts, profile information, or anything else." -Signal.org
 
-<br>
-
 ### Contacts
 Signal doesn't directly sends any of your contact list to the server. Instead, it uses a *cryptographic hash function* to obfuscate phone numbers before sending them to the server.
 <br>

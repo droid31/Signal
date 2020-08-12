@@ -50,8 +50,8 @@ Being open source is another perk of Signal messenger, as the whole code is publ
 # Features
 Ok, now you have an idea about the security of signal messenger. Let's talk features.
 
-### whatsapp features
-Signal has all features that whatsapp has to provide (excluding status). Every feature works seamlessly within the app. Moreover, there are many unique features that Whatsapp hasn't added yet. So, take a look at some unique features.
+### Whatsapp features
+Signal has all features that Whatsapp has to provide (excluding status). Every feature works seamlessly within the app. Moreover, there are many unique features that Whatsapp hasn't added yet. So, take a look at some unique features.
 
 ### Note to Self
 Ever wanted to jot down something quickly? Why not use Signal for that too. Compose a message and select "Note to Self" in the contact list. Don't worry this is end-to-end encrypted too. You can even write your passwords here (although i would recommend a password manager for that).

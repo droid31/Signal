@@ -21,5 +21,9 @@ Signal encrypts your messages, calls, and even the metadata. Signal is the only 
 
 > Metadata refers to the data about the data. For example if you share an image, it contains the EXIF information about the device model, camera resolution, time, location, etc.
 
-Signal uses state-of-the-art end-to-end encryption *(powered by the **open source Signal Protocol**)* which is touted as the gold standard of encryption by many cybersecurity professionals. Even Signal can't read your messages as the chats are end-to-end encrypted.<br> End-to-End chats are encrypted from the sender's device and decrypted at the reciever's device. Therefore no MITM(man-in-the-middle) attack can be performed.<br><br>
+Signal uses state-of-the-art end-to-end encryption *(powered by the **open source Signal Protocol**)* which is touted as the gold standard of encryption by many cybersecurity professionals. Even Signal can't read your messages as the chats are end-to-end encrypted.<br>
+
+> End-to-End chats are encrypted from the sender's device and decrypted at the reciever's device using a secure cryptographic key. And since the messages are stored on the local storage instead of the server, only you are in control.
+
+<br><br>
 To prevent physical access to the messages, the messages are stored on the storage in encrypted format. Therefore if your mobile is storen or the storage is compromised, the chats are irretrieveable. Moreover, the app supports biometric authentication/screen lock to prevent unauthorised access.

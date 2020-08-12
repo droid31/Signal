@@ -1,1 +1,1 @@
-# get_signal
+# Signal messenger : Benefits, installation and everything you need.

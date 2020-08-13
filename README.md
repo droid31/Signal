@@ -125,4 +125,4 @@ Facebook is also thinking of merging whatsapp with Facebook keeping in mind the 
 
 
 ## Article contributed by @Droid31
-Contact me at - [![](https://img.shields.io/static/v1?label=Contact:&message="mail"&color="green")](mailto: unixdroid@protonmail.com)
+Contact me at - [![](https://img.shields.io/static/v1?label=Contact:&message="mail"&color="green")](mailto:unixdroid@protonmail.com)

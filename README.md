@@ -1,7 +1,7 @@
 # Signal messenger : Benefits, installation and everything you need.
 ----------
 
-[![Signal](images.png)](https://signal.org/)
+[![Signal](Anant.png)](https://signal.org/)
 
 ## GET SIGNAL [HERE](https://signal.org/download/)
 

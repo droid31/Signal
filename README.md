@@ -141,10 +141,11 @@ Tech giants such as Google and Facebook are providing majority of their services
 Frankly I am ok with it too, as it helps to generate revenue but the problem arises when the ads are targeted. Normal ads are just related to your search query. But targeted ads are sent by analysing the usage pattern, behaviour, and multiple other factor which is a huge breach of trust. Targeted ads help the company to extract maximum benefit from your valuable data.
 
 #### But Google is secure, right?
-Well the short answer would be yes. But there are multiple factors at play here, google secures your data from external threats, but it doesn't stop them from misusing it themselves. As in the case of an ad company purchased by google, that tracks the users and points them targeted ads, this ad company has access to the google servers and has records of the users which is misused by google.<br><br>
+Well the short answer would be yes. But there are multiple factors at play here, google secures your data from external threats, but it doesn't stop them from misusing it themselves. As in the case of an ad company purchased by google, that tracks the users and points them targeted ads, this ad company has access to the google servers and has records of the users which is misused by google.<br>
+Also, since all google services are closed source and tightly integrated with android (preinstalled google apps) if they want they can compromise majority devices with just a software update. Code of closed source software can't be viewed so companies can easily bake in spyware that can export behavorial data to its servers.<br><br>
 Still not convinced? Read the articles about google from some of the reputed websites.<br>
 [cnet](https://www.cnet.com/how-to/google-collects-a-frightening-amount-of-data-about-you-you-can-find-and-delete-it-now/)<br>
-[tech crunch](https://techcrunch.com/2020/07/29/googles-sundar-pichai-grilled-over-destroying-anonymity-on-the-internet/)
+[tech crunch](https://techcrunch.com/2020/07/29/googles-sundar-pichai-grilled-over-destroying-anonymity-on-the-internet/)<br>
 [Guardian](https://www.theguardian.com/technology/2012/apr/23/doubleclick-tracking-trackers-cookies-web-monitoring)
 
 ### Ok, I'll do it, but what about my friends?

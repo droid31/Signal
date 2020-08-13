@@ -62,6 +62,9 @@ Want to send your photo, but don't want it to be stored on the reciever's device
 ### Un-compressed media
 Fed up how compresses the images, and the reciever gets a fuzzy image? Not here, signal transfer the media files *as-it-is* and doesn't perform any compression algorithm. So, images will be as clear as they are in your phone.
 
+### Built-in image editor
+Want to blur some part of an image before sharing? No need for a separate app. Signal has the option in the app itself. You can also blur faces you don't want to reveal.
+
 ### SMS manager
 Signal can also be used in place of the traditional SMS app, this allows you to encrypt the SMS too.
 
@@ -118,7 +121,7 @@ This is perhaps the most compelling reason to use Signal. As whatsapp is owned b
 Facebook isn't secure when it comes to data collection and handling, from the *Cambridge Analytica affair* to it's practice for sharing data about users with phone manufacturers.<br><br>
 In 2017, European regulators took action against Facebook for *sharing Whatsapp's users' phone numbers with its Facebook social network for advertising purposes.* Firmly in breach of data protection regulations. Facebook had previously claimed it would never implement such system.
 <br>
-#### So, Facebook doesn't care about privacy, prove it!
+### So, Facebook doesn't care about privacy, prove it!
 Facebook's lack of concern for users' privacy is the reason why **Whatsapp co-developer *Brian Acton* left Facebook in 2017 and co-founded Signal Foundation with Marlinspike later**. Brian has harshly criticised Facebook's approach to privacy and *revealed that Facebook coached him "to explain that it would be really difficult to merge the data of Facebook and Whatsapp together"* when giving statement to European Union regulators in 2014.<br><br>
 Facebook's desire to insert adverts and commercial messaging into Whatsapp and potentially compromising it's security prompted Acton to leave Facebook, and sacrificing about $850 million in stocks in process. Acton's fellow developer also walked out on Facebook following reported disputes with the company over its efforts to weaken encryption.
 

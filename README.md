@@ -27,7 +27,7 @@ Signal uses state-of-the-art end-to-end encryption *(powered by the **open sourc
 
 > End-to-End chats are encrypted from the sender's device and decrypted at the reciever's device using a secure cryptographic key. And since the messages are stored on the local storage instead of the server, only you are in control.
 
-To prevent physical access to the messages, the messages are stored on the storage in encrypted format. Therefore if your mobile is storen or the storage is compromised, the chats are irretrieveable. Moreover, the app supports biometric authentication/screen lock to prevent unauthorised access.
+To prevent physical access to the messages, the messages are stored on the storage in encrypted format. Therefore if your mobile is stolen or the storage is compromised, the chats are irretrieveable. Moreover, the app supports biometric authentication/screen lock to prevent unauthorised access.
 
 ### Stored data
 Signal stores as minimal data as possible. If ever the signal servers are hacked, they will only contain the *account creation date* and *last connection date*. See how even FBI lost it to the privacy of Signal messenger [here](https://www.dailydot.com/debug/signal-subpoena-privacy-gag-order/).
@@ -60,13 +60,13 @@ Ever wanted to jot down something quickly? Why not use Signal for that too. Comp
 Want to send your photo, but don't want it to be stored on the reciever's device? Don't worry, Signal has you covered. Just select to send a view-once message and it will be deleted as soon as the reciever views the media. *kaboom!*
 
 ### Un-compressed media
-Fed up how compresses the images, and the reciever gets a fuzzy image? Not here, signal transfer the media files *as-it-is* and doesn't perform any compression algorithm. So, images will be as clear as they are in your phone.
+Fed up as Whatsapp compressed the images, and the reciever got a fuzzy image? Not here, signal transfers the media files *as-it-is* and doesn't perform any compression algorithm. So, images will be as clear as they are in your phone.
 
 ### Built-in image editor
 Want to blur some part of an image before sharing? No need for a separate app. Signal has the option in the app itself. You can also blur faces you don't want to reveal.
 
 ### SMS manager
-Signal can also be used in place of the traditional SMS app, this allows you to encrypt the SMS too.
+Signal can also be used in place of the traditional SMS app, this allows you to encrypt the SMS on the device too.
 
 ### Incognito keyboard
 While using the app, the keyboard won't record your typing styles and word personalisation. However I would recommend using a secure keyboard app altogether.
@@ -78,8 +78,8 @@ You can backup chats locally, but the chats are encrypted using the pin you set 
 You can react to the messages, same as you can react to comments on facebook.
 
 ### Use multiple instances
-Signal supports all major platforms (Android, iOS, MacOS, Linux, Windows). Each signal app runs independly. <br>
-Essentially this means that, you can use signal from your desktop too. But the phone doesn't need to be online in this case, as in the case of whatsapp the phone need to be online for the client to work.
+Signal supports all major platforms (Android, iOS, MacOS, Linux, Windows). Each signal app runs it's own independant instance with android app being the master. <br>
+Essentially this means that, you can use signal from your desktop too. But the phone doesn't need to be online for you to use signal. But in case of whatsapp the phone need to be online for the client to work.
 
 -------------------------
 
@@ -126,6 +126,12 @@ Facebook's lack of concern for users' privacy is the reason why **Whatsapp co-de
 Facebook's desire to insert adverts and commercial messaging into Whatsapp and potentially compromising it's security prompted Acton to leave Facebook, and sacrificing about $850 million in stocks in process. Acton's fellow developer also walked out on Facebook following reported disputes with the company over its efforts to weaken encryption.
 
 Facebook is also thinking of merging whatsapp with Facebook keeping in mind the large volume of whatsapp users that aren't on facebook.
+
+### Ok, I'll do it, but what about my friends?
+Well tell them to switch too, it doesn't cost anything. You just have to download a free app. Signal provides above and beyond whatsapp features. Also, someone has to start, tell your friends to incorporate it slowly and build and ecosystem in which you are using whatsapp less. Don't push it, slowly try to shift towards signal and don't uninstall Whatsapp on day 1.
+
+### But I need whatsapp for professional messaging.
+Ok, then how about keeping both the apps, and using signal wherever possible. Even if you are not using signal's encrypted messaging services, it can work as an SMS app hence it will serve a purpose no matter what. We need to work together to break this monopoly. We need to support OPEN-SOURCE software and installing signal could be a great start. Kindly consider.
 
 
 ## Article contributed by @Droid31(Ðɘvɩɭ٭)

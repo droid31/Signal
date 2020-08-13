@@ -75,7 +75,7 @@ You can backup chats locally, but the chats are encrypted using the pin you set 
 You can react to the messages, same as you can react to comments on facebook.
 
 ### Use multiple instances
-Signal supports all major platforms (android, iOS, MacOS, Linux, Windows). Each signal app runs independly. <br>
+Signal supports all major platforms (Android, iOS, MacOS, Linux, Windows). Each signal app runs independly. <br>
 Essentially this means that, you can use signal from your desktop too. But the phone doesn't need to be online in this case, as in the case of whatsapp the phone need to be online for the client to work.
 
 -------------------------
@@ -98,3 +98,32 @@ Essentially this means that, you can use signal from your desktop too. But the p
   > **Bruce Schneier**<br>
   *Internationally renowned security technologist*
 
+# FAQ
+
+### Why should I ditch whatsapp?
+Whatsapp isn't half as secure as Signal, it has many security threats. In the race to provide a convenient experience, whatsapp has traded off privacy with a great margin.<br><br>
+The chats are not encrypted while in the storage, also, it is kept in google drive/icloud in plain text format without any encryption.
+
+### Anything else?
+Yes, what about the fact that whatsapp has already been compromised by an Israeli firm, which installed spyware on top of whatsapp and intercepted all the chats. This spyware was found in about 1400 high profile government officials using Whatapp. The israeli firm was able to bypass the end-to-end encryption and read all messages. Read more about it [here](https://www.theguardian.com/world/2020/apr/29/whatsapp-israeli-firm-deeply-involved-in-hacking-our-users).
+
+#### But isn't whatsapp encrypted?
+Apparently whatsapp uses the same encryption protocol for sending/receiving messages as Signal, but it has modified the open source code and installed a **back door** in it. This backdoor helps whatsapp to easily bypass the end-to-end encryption and get access to all your chats and information. Read more about the exploit [here](https://www.theguardian.com/technology/2017/jan/13/whatsapp-design-feature-encrypted-messages).
+
+#### I am still inclined towards whatsapp, is there anything else?
+Well, you seem like a tough nut to crack.<br><br>
+Before explaining further i want to ask you something.<br>
+### *How much can you trust Facebook?*
+This is perhaps the most compelling reason to use Signal. As whatsapp is owned by Facebook, and Facebook is known for it's long-standing lack of respect for user's privacy.<br>
+Facebook isn't secure when it comes to data collection and handling, from the *Cambridge Analytica affair* to it's practice for sharing data about users with phone manufacturers.<br><br>
+In 2017, European regulators took action against Facebook for *sharing Whatsapp's users' phone numbers with its Facebook social network for advertising purposes.* Firmly in breach of data protection regulations. Facebook had previously claimed it would never implement such system.<br><br>
+
+#### Facebook doesn't care about privacy, prove it!
+Facebook's lack of concern for users' privacy is the reason why **Whatsapp co-developer *Brian Acton* left Facebook in 2017 and co-founded Signal Foundation with Marlinspike later**. Brian has harshly criticised Facebook's approach to privacy and *revealed that Facebook coached him "to explain that it would be really difficult to merge the data of Facebook and Whatsapp together"* when giving statement to European Union regulators in 2014.<br><br>
+Facebook's desire to insert adverts and commercial messaging into Whatsapp and potentially compromising it's security prompted Acton to leave Facebook, and sacrificing about $850 million in stocks in process. Acton's fellow developer also walked out on Facebook following reported disputes with the company over its efforts to weaken encryption.
+
+Facebook is also thinking of merging whatsapp with Facebook keeping in mind the large volume of whatsapp users that aren't on facebook.
+
+
+## Article contributed by @Droid31
+Contact me at - unixdroid@protonmail.com

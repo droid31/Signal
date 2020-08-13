@@ -15,6 +15,8 @@
 Signal is an open-source app, designed to be secure yet provide a seamless messaging experience.
 Many of you might be using whatsapp, but today I am going to present my case on why signal is a better alternative.
 
+### *Kindly read this till the end to get a clear picture of what I am proposing*
+
 # SECURITY and PRIVACY
 Signal is by far the **best** when it comes to protecting user privacy. It is better than Whatsapp by a long shot. Signal uses the **open-source** Signal Protcol to implement the end-to-end encryption in its messages.
 <br>
@@ -113,6 +115,9 @@ Yes, what about the fact that whatsapp has already been compromised by an Israel
 #### But isn't whatsapp encrypted?
 Apparently whatsapp uses the same encryption protocol for sending/receiving messages as Signal, but it has modified the open source code and installed a **back door** in it. This backdoor helps whatsapp to easily bypass the end-to-end encryption and get access to all your chats and information. Read more about the exploit [here](https://www.theguardian.com/technology/2017/jan/13/whatsapp-design-feature-encrypted-messages).
 
+#### If whatsapp uses same encryption as Signal, how is Signal better?
+First of all, the encryption standard is open source, and signal doesn't tamper with the *break-free* code. But since whatsapp is closed source so nobody can see what facebook is coding behind closed doors. Maybe they weakened the encryption, added a tracker/spyware, who knows and facebook isn't trustworthy afterall.
+
 #### I am still inclined towards whatsapp, is there anything else?
 Well, you seem like a tough nut to crack.<br><br>
 Before explaining further i want to ask you something.<br>
@@ -135,4 +140,4 @@ Ok, then how about keeping both the apps, and using signal wherever possible. Ev
 
 ## Article contributed by @Droid31(Ðɘvɩɭ٭)
 Further improvement/pull requests are most welcome, I'll be waiting.
-Contact me at - [![](https://img.shields.io/static/v1?label=Contact:&message="mail"&color="green")](mailto:unixdroid@protonmail.com)
+Contact me here - [![](https://img.shields.io/static/v1?label=Contact:&message="mail"&color="green")](mailto:unixdroid@protonmail.com)

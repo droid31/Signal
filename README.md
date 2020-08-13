@@ -12,8 +12,8 @@
 
 
 ### What is signal?
-#### *Signal is an open-source app, designed to be secure yet provide a seamless messaging experience.
-#### Many of you might be using whatsapp, but today I am going to present my case on why signal is a better alternative*
+#### *Signal is an open-source app, designed to be secure yet provide a seamless messaging experience.*
+#### *Many of you might be using whatsapp, but today I am going to present my case on why signal is a better alternative*
 
 ### *Kindly read this till the end to get a clear picture of what I am proposing*
 

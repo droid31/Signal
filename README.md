@@ -81,8 +81,8 @@ Essentially this means that, you can use signal from your desktop too. But the p
 -------------------------
 
 #### This marks the end of all the security practices and unique features, but there is more to come with every update. Before moving on to the FAQ, let's hear it from the pros.
-
-> "I use Signal every day"
-  > Edward Snowden
+ 
+> "I use Signal every day"<br>
+  > Edward Snowden<br>
     > Whistleblower and privacy advocate
 

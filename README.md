@@ -124,5 +124,6 @@ Facebook's desire to insert adverts and commercial messaging into Whatsapp and p
 Facebook is also thinking of merging whatsapp with Facebook keeping in mind the large volume of whatsapp users that aren't on facebook.
 
 
-## Article contributed by @Droid31
+## Article contributed by @Droid31(Ðɘvɩɭ٭)
+Further improvement/pull requests are most welcome, I'll be waiting.
 Contact me at - [![](https://img.shields.io/static/v1?label=Contact:&message="mail"&color="green")](mailto:unixdroid@protonmail.com)

@@ -84,5 +84,5 @@ Essentially this means that, you can use signal from your desktop too. But the p
  
 > "I use Signal every day"<br>
   > Edward Snowden<br>
-    > Whistleblower and privacy advocate
+  Whistleblower and privacy advocate
 

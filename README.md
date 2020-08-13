@@ -85,4 +85,21 @@ Essentially this means that, you can use signal from your desktop too. But the p
 > ### "I use Signal every day."<br>
   > **Edward Snowden**<br>
   *Whistleblower and privacy advocate*
+  
+  
+
+> ### "I trust Signal because it’s well built, but more importantly, because 
+of how it’s built: open source, peer reviewed, and funded entirely by 
+grants and donations. A refreshing model for how critical services 
+should be built."<br>
+  > **Jack Dorsey**<br>
+  *CEO of Twitter and Square*
+
+
+
+> ### "I am regularly impressed with the thought and care put into both the 
+security and the usability of this app. It's my first choice for an 
+encrypted conversation."<br>
+  > **Bruce Schneier**<br>
+  *Internationally renowned security technologist*
 

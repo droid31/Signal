@@ -128,11 +128,10 @@ Facebook's desire to insert adverts and commercial messaging into Whatsapp and p
 Facebook is also thinking of merging whatsapp with Facebook keeping in mind the large volume of whatsapp users that aren't on facebook.
 
 ### Ok, I'll do it, but what about my friends?
-Well tell them to switch too, it doesn't cost anything. You just have to download a free app. Signal provides above and beyond whatsapp features. Also, someone has to start, tell your friends to incorporate it slowly and build and ecosystem in which you are using whatsapp less. Don't push it, slowly try to shift towards signal and don't uninstall Whatsapp on day 1.
+Well tell them to switch too, it doesn't cost anything. You just have to download a free app. Signal features provide above and beyond whatsapp. Also, someone has take initiative and start the change, tell your friends to incorporate it slowly and build and ecosystem in which you are using whatsapp less. Don't push it, slowly try to shift towards signal and don't uninstall Whatsapp on day 1.
 
 ### But I need whatsapp for professional messaging.
-Ok, then how about keeping both the apps, and using signal wherever possible. Even if you are not using signal's encrypted messaging services, it can work as an SMS app hence it will serve a purpose no matter what. We need to work together to break this monopoly. We need to support OPEN-SOURCE software and installing signal could be a great start. Kindly consider.
-
+Ok, then how about keeping both the apps, and using signal wherever possible. Even if you are not using signal's encrypted messaging services, it can work as an SMS app hence it will serve a purpose no matter what. We need to work together to break this monopoly of tech giants. We need to support OPEN-SOURCE software which is free of cost and protects your privacy and installing signal could be a great start. Kindly consider.
 
 ## Article contributed by @Droid31(Ðɘvɩɭ٭)
 Further improvement/pull requests are most welcome, I'll be waiting.

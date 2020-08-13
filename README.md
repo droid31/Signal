@@ -116,7 +116,8 @@ Before explaining further i want to ask you something.<br>
 ### *How much can you trust Facebook?*
 This is perhaps the most compelling reason to use Signal. As whatsapp is owned by Facebook, and Facebook is known for it's long-standing lack of respect for user's privacy.<br>
 Facebook isn't secure when it comes to data collection and handling, from the *Cambridge Analytica affair* to it's practice for sharing data about users with phone manufacturers.<br><br>
-In 2017, European regulators took action against Facebook for *sharing Whatsapp's users' phone numbers with its Facebook social network for advertising purposes.* Firmly in breach of data protection regulations. Facebook had previously claimed it would never implement such system.<br><br>
+In 2017, European regulators took action against Facebook for *sharing Whatsapp's users' phone numbers with its Facebook social network for advertising purposes.* Firmly in breach of data protection regulations. Facebook had previously claimed it would never implement such system.
+<br>
 #### So, Facebook doesn't care about privacy, prove it!
 Facebook's lack of concern for users' privacy is the reason why **Whatsapp co-developer *Brian Acton* left Facebook in 2017 and co-founded Signal Foundation with Marlinspike later**. Brian has harshly criticised Facebook's approach to privacy and *revealed that Facebook coached him "to explain that it would be really difficult to merge the data of Facebook and Whatsapp together"* when giving statement to European Union regulators in 2014.<br><br>
 Facebook's desire to insert adverts and commercial messaging into Whatsapp and potentially compromising it's security prompted Acton to leave Facebook, and sacrificing about $850 million in stocks in process. Acton's fellow developer also walked out on Facebook following reported disputes with the company over its efforts to weaken encryption.

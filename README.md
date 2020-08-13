@@ -132,6 +132,21 @@ Facebook's desire to insert adverts and commercial messaging into Whatsapp and p
 
 Facebook is also thinking of merging whatsapp with Facebook keeping in mind the large volume of whatsapp users that aren't on facebook.
 
+#### But i have nothing to hide.
+That isn't true, humans need privacy, it is just that you don't understand the value of online privacy. You have curtains at your home right, may i ask why? Because you don't want random stanger to look at your personal activities (eating, watching tv, etc). Having curtains doesn't mean the person is cooking meth inside the house. It means you are concerned about your privacy.<br>
+Same stands for online privacy, you don't need to be a drug seller to care about your privacy. Privacy should be for everyone. But people generally misinterpret it.<br>
+Tech giants such as Google and Facebook are providing majority of their services for free, still they generate billions in revenue. Where does the money come from? It is from your data, the data that is sold openly to the highest bidder. This data is then used to uniquely identify you and then track your habits across websites and present your with targeted ads.
+
+#### But I am okay with ads!
+Frankly I am ok with it too, as it helps to generate revenue but the problem arises when the ads are targeted. Normal ads are just related to your search query. But targeted ads are sent by analysing the usage pattern, behaviour, and multiple other factor which is a huge breach of trust. Targeted ads help the company to extract maximum benefit from your valuable data.
+
+#### But Google is secure, right?
+Well the short answer would be yes. But there are multiple factors at play here, google secures your data from external threats, but it doesn't stop them from misusing it themselves. As in the case of an ad company purchased by google, that tracks the users and points them targeted ads, this ad company has access to the google servers and has records of the users which is misused by google.<br><br>
+Still not convinced? Read the articles about google from some of the reputed websites.<br>
+[cnet](https://www.cnet.com/how-to/google-collects-a-frightening-amount-of-data-about-you-you-can-find-and-delete-it-now/)<br>
+[tech crunch](https://techcrunch.com/2020/07/29/googles-sundar-pichai-grilled-over-destroying-anonymity-on-the-internet/)
+[Guardian](https://www.theguardian.com/technology/2012/apr/23/doubleclick-tracking-trackers-cookies-web-monitoring)
+
 ### Ok, I'll do it, but what about my friends?
 Well tell them to switch too, it doesn't cost anything. You just have to download a free app. Signal features provide above and beyond whatsapp. Also, someone has take initiative and start the change, tell your friends to incorporate it slowly and build and ecosystem in which you are using whatsapp less. Don't push it, slowly try to shift towards signal and don't uninstall Whatsapp on day 1.
 

@@ -156,4 +156,4 @@ Ok, then how about keeping both the apps, and using signal wherever possible. Ev
 
 ## Article contributed by @Droid31(Ðɘvɩɭ٭)
 Further improvement/pull requests are most welcome, I'll be waiting.
-Contact me here - [![](https://img.shields.io/static/v1?label=Contact:&message="mail"&color="green")](mailto:unixdroid@protonmail.com)
+Mail me at - `unixdroid@pm.me`
